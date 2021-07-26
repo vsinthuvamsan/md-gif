@@ -12,7 +12,7 @@ The extension includes the following features:
 1. Intellisense for the Universe Basic Statements and Functions.
 - As you type your program, you will be prompted with available statements and  functions including the syntax and description.
 
-![](Aspose.Words.49b9c5fe-b9e0-4613-89b7-e274dbf4263c.001.png)
+![](1.gif)
 
 
 
@@ -21,7 +21,7 @@ The extension includes the following features:
 
 
 1. Internal Subroutine lookup
-- Pressing ctrl+space after the word **GOTO**, **GOSUB** will allow you to select from a defined internal subroutine in your program.![](Aspose.Words.49b9c5fe-b9e0-4613-89b7-e274dbf4263c.002.png)
+- Pressing ctrl+space after the word **GOTO**, **GOSUB** will allow you to select from a defined internal subroutine in your program.![](2.gif)
 
 
 
@@ -30,7 +30,7 @@ The extension includes the following features:
 
 
 
-1. Custom TP Standard Subroutines![](Aspose.Words.49b9c5fe-b9e0-4613-89b7-e274dbf4263c.003.png)
+1. Custom TP Standard Subroutines![](3.gif)
 
 
 
@@ -39,37 +39,7 @@ The extension includes the following features:
 
 
 
-1. Create new TP Standard Program ![](Aspose.Words.49b9c5fe-b9e0-4613-89b7-e274dbf4263c.004.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. Create new TP Standard subroutine![](Aspose.Words.49b9c5fe-b9e0-4613-89b7-e274dbf4263c.005.png)
-
-
-
-
-
-
-
-
-
-
-1. Custom @() function in TP Screen Painter![](Aspose.Words.49b9c5fe-b9e0-4613-89b7-e274dbf4263c.006.png)
+1. Create new TP Standard Program ![](4.gif)
 
 
 
@@ -86,7 +56,37 @@ The extension includes the following features:
 
 
 
-1. Design and implement screens ( include ascii code commands for screen painter)![](Aspose.Words.49b9c5fe-b9e0-4613-89b7-e274dbf4263c.007.png)
+
+
+1. Create new TP Standard subroutine![](5.gif)
+
+
+
+
+
+
+
+
+
+
+1. Custom @() function in TP Screen Painter![](6.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Design and implement screens ( include ascii code commands for screen painter)![](7.gif)
 
 
 
@@ -162,4 +162,4 @@ Link -> https://github.com/MitraDigital/mitra-rocket-ide
 - Debugger for Universe BASIC 
 
 
-Copyright © 2021 Mitra Innovation                                 ![](Aspose.Words.49b9c5fe-b9e0-4613-89b7-e274dbf4263c.008.png)
+Copyright © 2021 Mitra Innovation                                 ![](mitraj.png)
