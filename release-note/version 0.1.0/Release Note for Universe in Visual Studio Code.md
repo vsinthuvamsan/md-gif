@@ -1,17 +1,9 @@
-﻿```
-```
-
-**Mitra Rocket IDE  Release Note**
-
-```
-```
+﻿**Mitra Rocket IDE  Release Note**
 
 **0.1.0**
 
-```
-```
-
 **July, 2021**
+
 
 **What’s New**
 
@@ -19,9 +11,7 @@ The extension includes the following features:
 
 1. Intellisense for the Universe Basic Statements and Functions.
 
-- As you type your program, you will be prompted with available statements and  functions including the syntax and description.
-
-![](1.gif)
+- As you type your program, you will be prompted with available statements and  functions including the syntax and description.![](1.gif)
 
 2. Internal Subroutine lookup
 
@@ -66,14 +56,11 @@ The extension includes the following features:
   - Set encoding to ‘**Western(ISO-8859-15)’**
 
 3. Clone the mitra-rocket-ide repository from github.
-
 4. Copy to snippets.json file and Go to extension installation folder then replace the snippets.json file
 
 - Folder location - **C:\Users\<username>\.vscode\extensions\kosdaysolutions.mvbasiclinkar-1.0.3\Syntaxes**
 
 5. Restart VS Code
-
-
 
 **Knows Issues and Limitations**
 
