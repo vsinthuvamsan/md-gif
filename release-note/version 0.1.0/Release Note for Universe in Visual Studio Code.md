@@ -4,19 +4,12 @@
 
 **July, 2021**
 
-
 **What’s New**
 
 The extension includes the following features:
 
-1. Intellisense for the Universe Basic Statements and Functions.
-
-- As you type your program, you will be prompted with available statements and  functions including the syntax and description.![](1.gif)
-
-2. Internal Subroutine lookup
-
-- Pressing ctrl+space after the word **GOTO**, **GOSUB** will allow you to select from a defined internal subroutine in your program.![](2.gif)
-
+1. Intellisense for the Universe Basic Statements and Functions.As you type your program, you will be prompted with available statements and  functions including the syntax and description.![](1.gif)
+2. Internal Subroutine lookupPressing ctrl+space after the word **GOTO**, **GOSUB** will allow you to select from a defined internal subroutine in your program.![](2.gif)
 3. Custom TP Standard Subroutines![](3.gif)
 4. Create new TP Standard Program ![](4.gif)
 5. Create new TP Standard subroutine![](5.gif)
