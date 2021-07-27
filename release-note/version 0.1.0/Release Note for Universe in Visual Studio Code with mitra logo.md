@@ -4,39 +4,32 @@
 
 # **July, 2021**
 
-### **What’s New**
+## **What’s New**
 
 ### The extension includes the following features:
 
 1. Intellisense for the Universe Basic Statements and Functions.
 
-   * As you type your program, you will be prompted with available statements and  functions including the syntax and description. 
-     ![](1.gif)
+   * As you type your program, you will be prompted with available statements and  functions including the syntax and description.![](1.gif)
 2. Internal Subroutine lookup
 
-   * Pressing ctrl+space after the word **GOTO**, **GOSUB** will allow you to select from a defined internal subroutine in your program. 
-     ![](2.gif)
-3. Custom TP Standard Subroutines 
-   ![](3.gif)
-4. Create new TP Standard Program 
-   ![](4.gif)
-5. Create new TP Standard subroutine 
-   ![](5.gif)
-6. Custom @() function in TP Screen Painter
-   ![](6.gif)
-7. Design and implement screens ( include ascii code commands for screen painter)
-   ![](7.gif)
+   * Pressing ctrl+space after the word **GOTO**, **GOSUB** will allow you to select from a defined internal subroutine in your program.![](2.gif)
+3. Custom TP Standard Subroutines![](3.gif)
+4. Create new TP Standard Program ![](4.gif)
+5. Create new TP Standard subroutine![](5.gif)
+6. Custom @() function in TP Screen Painter![](6.gif)
+7. Design and implement screens ( include ascii code commands for screen painter)![](7.gif)
 
 ---
 
-### **Release Details**
+**Release Details**
 
 - Release Version : 0.1.0
 - Product Name : mitra-rocket-ide
 - Files Name : snippets.json and MvLanguage.json
 - Git Repository:Link -> https://github.com/MitraDigital/mitra-rocket-ide
 
-### **Deployment Steps**
+**Deployment Steps**
 
 1. Download links
 
@@ -66,7 +59,7 @@
    * Folder location - **C:\Users\<username>\.vscode\extensions\kosdaysolutions.mvbasiclinkar-1.0.3\Syntaxes**
 5. Restart VS Code
 
-### **Knows Issues and Limitations**
+**Knows Issues and Limitations**
 
 **Issue Summary**
 
@@ -75,3 +68,5 @@
 **Limitation Summary**
 
 - Debugger for Universe BASIC
+
+Copyright © 2021 Mitra Innovation                                 ![](mitraj.png)
