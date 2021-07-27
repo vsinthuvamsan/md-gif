@@ -1,8 +1,4 @@
-﻿# **Mitra Rocket IDE  Release Note**
-
-# **0.1.0**
-
-# **July, 2021**
+﻿# **Mitra Rocket IDE  Release Note - 0.1.0**
 
 ### **What’s New**
 
@@ -47,13 +43,8 @@
 
 1. Download links
 
-- MV Basic Linkar extension -
-
-  [https://marketplace.visualstudio.com/items?itemName=KosdaySolutions.mvbasiclinkar](https://)
-- Monokai theme -
-
-  [https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Monokai](https://)
-
+   * MV Basic Linkar extension -[https://marketplace.visualstudio.com/items?itemName=KosdaySolutions.mvbasiclinkar](https://)
+   * Monokai theme -[https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Monokai](https://)
 2. Set the following setting values are for 'Linkar' extension
 
    * Go to manage > settings
