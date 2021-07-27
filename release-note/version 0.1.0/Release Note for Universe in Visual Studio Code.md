@@ -11,6 +11,8 @@
 1. Intellisense for the Universe Basic Statements and Functions.
 
    * As you type your program, you will be prompted with available statements and  functions including the syntax and description.
+
+
      ![](1.gif)
 2. Internal Subroutine lookup
 
