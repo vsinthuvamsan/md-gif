@@ -12,21 +12,26 @@
 
    * As you type your program, you will be prompted with available statements and  functions including the syntax and description.
 
-
      ![](1.gif)
 2. Internal Subroutine lookup
 
    * Pressing ctrl+space after the word **GOTO**, **GOSUB** will allow you to select from a defined internal subroutine in your program.
+
      ![](2.gif)
 3. Custom TP Standard Subroutines
+
    ![](3.gif)
 4. Create new TP Standard Program
+
    ![](4.gif)
 5. Create new TP Standard subroutine
+
    ![](5.gif)
 6. Custom @() function in TP Screen Painter
+
    ![](6.gif)
 7. Design and implement screens ( include ascii code commands for screen painter)
+
    ![](7.gif)
 
 ---
